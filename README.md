@@ -83,6 +83,9 @@ https://github.com/pgakk/challenge6
 Aravindh#9049
 https://github.com/Aravindh-SNR/javascript-coding-challenge
 
+david_kent#3499
+https://github.com/DavidRittscher/Code-Challenge-6
+
 Nass#3301
 https://github.com/SNasser97/coding-challenge-6
 
